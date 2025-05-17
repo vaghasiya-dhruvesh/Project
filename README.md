@@ -46,6 +46,9 @@ npm run dev
 4. Build for Production
 
 npm run build
+
+Future Improvements
+
 Add player vs computer mode
 
 Add score tracking
