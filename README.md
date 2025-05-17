@@ -36,21 +36,16 @@ git clone https://github.com/vaghasiya-dhruvesh/Project.git
 cd Project/funGame
 
 2. Install Dependencies
-bash
-Copy
-Edit
+
 npm install
+
 3. Run the App
-bash
-Copy
-Edit
+
 npm run dev
+
 4. Build for Production
-bash
-Copy
-Edit
+
 npm run build
-💡 Future Improvements
 Add player vs computer mode
 
 Add score tracking
