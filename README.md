@@ -9,7 +9,7 @@ A simple and fun **Tic-Tac-Toe** (X-O) game built using **React**, **TypeScript*
 ## 📷 Preview
 
 ![Game Preview](public/vite.svg)  
-*(Update this screenshot with a gameplay image if available)*
+![alt text](image.png)
 
 ## 🛠️ Tech Stack
 
